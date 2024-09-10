@@ -2,8 +2,6 @@
 
 Top-Courses is a React-based web application that allows users to discover and interact with various courses across different categories. Users can like their favorite courses and manage their liked courses list.
 
-![Top-Courses Screenshot](./top-courses/public/Screenshot.png)
-
 ## Features
 
 - Browse courses categorized into different fields.
